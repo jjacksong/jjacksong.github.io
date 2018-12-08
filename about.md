@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+I'm a B-list software engineer.
+Take courage in the world!
 
-email: agus[at]python.web.id
+email: jjacksong[at]hotmail.com
